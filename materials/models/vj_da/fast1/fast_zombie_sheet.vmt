@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vj_da/fast1/fast_zombie_sheet"
+	"$bumpmap" "models/vj_da/fast1/fast_zombie_sheet_normal"
+	
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$ambientocclusion" "1"
+	"$halflambert" "1"
+
+	"$emissiveblendenabled" "1"
+	"$emissiveblendtexture" "models/vj_da/fast1/light_glow_blue"
+	"$emissiveblendflowTexture" "models/vj_da/fast1/fast_zombie_sheet_emissive"
+	"$emissiveblendbaseTexture" "models/vj_da/fast1/fast_zombie_sheet_emissive"
+	"$emissiveblendtint" "[0 3 10]"
+	"$emissiveblendscrollVector" "[.5 1]"
+	"$emissiveblendstrength" "10"
+}
